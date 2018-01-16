@@ -1,0 +1,10 @@
+.Tweet {
+  margin-bottom: 1rem;
+}
+
+.Tweet-avatar {
+  float: left;
+  width: 30px;
+  margin: 0 1rem 0 0;
+  border-radius: 0.25rem;
+}
